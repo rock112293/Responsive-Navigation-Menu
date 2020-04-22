@@ -131,18 +131,18 @@ header ul li a
     height: 2px;
     background: #fff;
     z-index: 1;
-    transition: 0.5s;
+    transition: 0.8s;
   }
   header.active .toggle:before
   {
     top: 14px;
-    transform: rotate(45deg);
+    transform: rotate(135deg);
     box-shadow: 0 0 0 #fff;
   }
   header.active .toggle:after
   {
     bottom: 14px;
-    transform: rotate(-45deg);
+    transform: rotate(-135deg);
     box-shadow: 0 0 0 #fff;
   }
   
