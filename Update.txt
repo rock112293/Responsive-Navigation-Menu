@@ -1,0 +1,4 @@
+Update feature of Menu bars
+Transition and Animation effects
+tranforms: degree change from rotate 45 to rotate -45 both content
+toggle:before and toggle:after
