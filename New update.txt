@@ -1,0 +1,22 @@
+Update feature of Menu bars
+Transition and Animation effects
+Tranforms:
+●degree change from rotate 45 to rotate -45 both content
+Toggle:
+●before and toggle:after
+●Change:
+degree to 135deg and -135deg("transform: rotate(135deg),transform: rotate(-135deg)").
+Transition:
+●from 5s change to 8s.
+Transition:
+●change from 5s and 8s to 6s both before and after effects.
+Transform: 
+●rotate change to (315deg and -135deg)both before and after effets.
+Add feature:
+●Logo(Github)
+●Menu add border
+●Transition/rotation
+●Background-image
+●Border-radius
+●Add Comments
+●Boot CDN

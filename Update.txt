@@ -1,8 +1,0 @@
-Update feature of Menu bars
-Transition and Animation effects
-tranforms: degree change from rotate 45 to rotate -45 both content
-toggle:before and toggle:after
-Change degree to 135deg and -135deg("transform: rotate(135deg),transform: rotate(-135deg)").
-Transition from 5s change to 8s.
-Transition change from 5s and 8s to 6s both before and after effects.
-Transform: rotate change to (315deg and -135deg)both before and after effets.
