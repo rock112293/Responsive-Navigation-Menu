@@ -20,3 +20,6 @@ Add feature:
 ●Border-radius
 ●Add Comments
 ●Boot CDN
+●Resize icon
+●Resize Menu(hamburger)
+●Change icon(git)
