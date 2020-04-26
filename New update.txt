@@ -19,4 +19,7 @@ Add feature:
 ●Background-image
 ●Border-radius
 ●Add Comments
-●Boot CDN
+●Change Theme:color whte
+●Resize Hamburger menu(bars)
+●Resize Header
+
